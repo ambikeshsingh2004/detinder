@@ -1,0 +1,3 @@
+[submodule "tinder_back"]
+  path = tinder_back
+  url = https://github.com/ambikeshsingh2004/devtinder.git/  # Replace with the correct URL

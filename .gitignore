@@ -1,0 +1,6 @@
+tinder_front/node_modules/
+tinder_back/node_modules/
+tinder_back/src/utils/razorpay.js
+tinder_back/.vscode/
+tinder_front/.vscode/
+tinder_back/src/nodes2_notes.js
